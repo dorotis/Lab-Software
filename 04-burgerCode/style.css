@@ -45,19 +45,19 @@ button {
   padding: 12px;
   font-size: 14px;
   cursor: pointer;
-  border: 1px solid #ccc;
+  border: 1px solid #eb81bb;
   border-radius: 4px;
-  background-color: #fff;
+  background-color: #c374ca;
   transition: background-color 0.2s;
 }
 
 button:hover {
-  background-color: #e2e6ea;
+  background-color: #4795ee;
 }
 
 .btn-finalizar {
   background-color: #28a745;
-  color: white;
+  color: rgb(7, 7, 7);
   border: none;
 }
 
@@ -66,7 +66,7 @@ button:hover {
 }
 
 .btn-limpar {
-  background-color: #dc3545;
+  background-color: #7605a398;
   color: white;
   border: none;
 }

@@ -32,8 +32,9 @@ rl.question("Digite o resultado do primeiro dado: ", (dadoUm) => {
     dadoDois = Number(dadoDois);
 
     //REALIZE O EXERCÍCIO AQUI 🔽
+    let soma = dadoUm + dadoDois
 
-
+    console.log(`O resultado da soma é ${soma}`);
 
     rl.close();
   });

@@ -58,6 +58,17 @@ rl.question("Digite o valor da compra em centavos: ", (a) => {
     b = Number(b);
 
     //REALIZE O EXERCÍCIO AQUI 🔽
+    let 
+    let carteira = 3
+    let valor = produto - (produto * desconto)
+
+if(carteira < valor){
+    console.log(`Saldo insuficiente o preco final com seu desconto e: ${valor}`)
+}
+else{
+    console.log(`Pagamento realizado o preco final com seu desconto e: ${valor}`)
+}
+
 
     rl.close();
   });
